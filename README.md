@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/ezebotech/TheAKABUEZE/_apis/build/status/Kenechukwu881.Flatris-LAB?branchName=master)](https://dev.azure.com/ezebotech/TheAKABUEZE/_build/latest?definitionId=2&branchName=master)
+
 [![Flatris](flatris.png)](https://flatris.space/)
 
 [![Build Status](https://travis-ci.org/skidding/flatris.svg?branch=master)](https://travis-ci.org/skidding/flatris)
